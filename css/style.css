@@ -561,6 +561,34 @@ body {
     font-size:29px;
     /* padding: 2px 22px; */
 }
-/* .for_slick_slider2>ul>li{
-    list-style: none;
-} */
+
+
+
+/* footer */
+
+
+
+
+footer{
+    height:150px;
+    width:100%;
+}
+
+.footer-sub{
+    display:flex;
+    justify-content:center;
+    align-items: stretch;
+}
+.footer-sub-1{
+}
+.footer-sub-1 input,.footer-sub-1 button{
+}
+
+.footer-sub-1>.align{
+    font-size: 25px;
+}
+.footer-sub-2{
+}
+.footer-sub-3{
+    
+}

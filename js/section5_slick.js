@@ -11,6 +11,7 @@ $(document).ready(function() {
             centerMode: true,
             focusOnSelect: true,
             centerPadding: '0px',
+            asNavFor: '.centerl',
         })
     })
     });
